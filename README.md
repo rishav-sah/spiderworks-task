@@ -26,4 +26,8 @@
 - A Dynamic web application with the business logic to achieve the functionality as per the client.
 - Usage of primary `react` features such as hooks (we could have used for storing the dynamic data), context API (For example, we could have used for `searchBar`) and other functionality which can be achieved when we're having complete requirement of a web application.
 
+# Deployment
+- Kudos to Vercel for their easy deployment feature.
+- Please visit [here](https://spiderworks-task-kdz70z5b7-rishavs-projects.vercel.app/) to view the website as shown in the repository.
+
 
